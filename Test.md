@@ -1,5 +1,5 @@
-# teste do git
-[testedelink](http://google.com.br)
+# Teste do Git
+[testedelink](http://github.com)
 
 # TESTE DE PARAGRAFO
 
