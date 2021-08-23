@@ -47,4 +47,3 @@ idade >= 60 && anosTrabalhados >= 25
     verificarAposentadoria('Nádio')       // true (regra 3)
     verificarAposentadoria('Wellison')    // false (falta 1 ano de trabalho para regra 2)
     verificarAposentadoria('Florisberto') // false (colaborador inexistente)
-    ```
