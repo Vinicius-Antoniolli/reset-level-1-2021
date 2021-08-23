@@ -7,6 +7,7 @@ function imprimir(mensagem){
 
 imprimir("Exercicio 1");
 ```
+
 ### 2-)
 ```javascript
 // Dados dois nomes, verificar se os mesmos são iguais
