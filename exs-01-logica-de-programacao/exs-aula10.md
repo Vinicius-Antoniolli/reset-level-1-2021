@@ -7,8 +7,8 @@ function verificarAposentadoria(nome){
     temposDeTrabalho = [31,29,30,26,25,24,26,29]
 
 /* condições:
-idade >= 65;
-anosTrabalhados >= 30 anos;
+idade >= 65
+anosTrabalhados >= 30 anos
 idade >= 60 && anosTrabalhados >= 25
 */    
 
@@ -23,7 +23,7 @@ idade >= 60 && anosTrabalhados >= 25
      idade = idades[index]
      tempoTrabalho = temposDeTrabalho[index]
     
-    }
+        }
     }
        if(colaborador == true) {
          if(idade >=65 || tempoTrabalho >=30 || (idade >=60 && tempoTrabalho >=25)) {
@@ -31,11 +31,11 @@ idade >= 60 && anosTrabalhados >= 25
     }
        else {
        console.log("Infelizmente para você, ainda falta um tempo :(")
-    }   
+        }   
     }
        else { 
          console.log("Colaborador inválido :|")
-    }     
+        }     
     }
     verificarAposentadoria('Rosiméri')    // true (regra 3)
     verificarAposentadoria('Agripino')    // false (falta 1 ano de idade para regra 3)
