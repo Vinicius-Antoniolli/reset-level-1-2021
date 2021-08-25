@@ -31,6 +31,6 @@ saldo = saldo + salario - calca - doacao;
 arCondicionado = (saldo * 0.25)
 saldo = saldo - arCondicionado
 saldo = saldo/2
-let seuSaldo = "O seu saldo atual é de R$" + saldo + ",00"
+seuSaldo = "O seu saldo atual é de R$" + saldo + ",00"
 console.log(seuSaldo)
 ```
