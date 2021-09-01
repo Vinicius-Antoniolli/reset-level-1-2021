@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class AlunoResetLeituraTeclado {
+public class AlunoResetLeituraTeclado {
 
     public static void main(String[] args) {
         System.out.println("Digite seu nome completo: ");
