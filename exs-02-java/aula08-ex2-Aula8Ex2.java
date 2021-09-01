@@ -35,3 +35,10 @@ public class Aula8Ex2 {
         }
     }
 }
+
+
+
+Digite um dia da semana (de 1 a 7) 
+6
+
+Hoje é Sextou
