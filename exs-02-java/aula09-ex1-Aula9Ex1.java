@@ -19,3 +19,14 @@ public class Aula9Ex1 {
         }
     }
 }
+
+
+
+Insira a sua nota: 
+15
+Insira uma nota válida (de 0 a 10) 
+12
+Insira uma nota válida (de 0 a 10) 
+10
+
+Sua nota é de: 10.0
