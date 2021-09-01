@@ -24,3 +24,13 @@ public class Aula9Ex2 {
         System.out.println("são os valores entre eles.");
     }
 }
+
+
+Digite o valor inicial: 
+31
+Digite o valor final: 
+25
+O valor final precisa ser maior que o valor inicial, tente novamente.
+Digite o valor final: 
+39
+32.0, 33.0, 34.0, 35.0, 36.0, 37.0, 38.0, são os valores entre eles.
