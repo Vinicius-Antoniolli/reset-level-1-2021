@@ -28,3 +28,16 @@ public class Aula8Ex1 {
 
     }
 }
+
+
+
+Insira sua primeira nota: 
+5,6
+Insira sua segunda nota: 
+8,1
+Insira sua terceira nota: 
+9,7
+Insira sua quarta nota: 
+7,8
+
+Aluno aprovado
