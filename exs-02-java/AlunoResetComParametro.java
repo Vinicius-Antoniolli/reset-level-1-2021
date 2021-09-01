@@ -3,3 +3,8 @@ class AlunoResetComParametro {
         System.out.println("Sou aluno do Level 1 do CWI Reset! Me chamo " + args[0]);
     }
 }
+
+
+javac AlunoResetComParametro.java
+java AlunoResetComParametro Vinicius
+Sou aluno do Level 1 do CWI Reset! Me chamo Vinicius
