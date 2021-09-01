@@ -18,3 +18,17 @@ public class Aula9Ex3 {
         System.out.println("\nO maior número é: " + maiorNumero);
     }
 }
+
+
+Digite um número:
+351
+Digite outro número:
+12,8
+Digite outro número:
+68
+Digite outro número:
+128
+Digite outro número:
+356,9
+
+O maior número é: 356.9
