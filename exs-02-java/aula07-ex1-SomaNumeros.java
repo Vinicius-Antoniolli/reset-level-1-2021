@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class somaNumeros {
+public class SomaNumeros {
     public static void main(String[] args) {
         Scanner inserirNumeros = new Scanner(System.in);
 
