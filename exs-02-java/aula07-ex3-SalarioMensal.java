@@ -11,6 +11,14 @@ public class SalarioMensal {
         double horasMensais = inserirDadosTeclado.nextDouble();
 
         double salarioMensal = salarioHora*horasMensais;
-        System.out.println("O seu salário é de R$" + salarioMensal);
+        System.out.println("\nO seu salário é de R$" + salarioMensal);
     }
 }
+
+
+Quanto você ganha por hora? 
+40
+Quantas horas você trabalha por mês? 
+200
+    
+O seu salário é de R$8000.0
