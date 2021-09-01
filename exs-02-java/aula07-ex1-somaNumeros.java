@@ -12,3 +12,10 @@ public class somaNumeros {
         System.out.println("A soma dos dois valores é: " + resultado);
     }
 }
+
+
+Insira o primeiro numero:
+10
+Insira o segundo numero:
+5
+A soma dos dois valores é: 15
