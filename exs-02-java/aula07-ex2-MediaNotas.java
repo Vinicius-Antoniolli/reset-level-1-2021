@@ -20,3 +20,15 @@ public class MediaNotas {
         System.out.println("\nSua média final é de " + media);
     }
 }
+
+
+Insira sua primeira nota: 
+6,5
+Insira sua segunda nota: 
+6,9
+Insira sua terceira nota: 
+8,7
+Insira sua quarta nota: 
+9,2
+
+Sua média final é de 7.825
