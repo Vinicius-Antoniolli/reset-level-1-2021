@@ -10,3 +10,10 @@ public class AlunoResetLeituraTeclado {
         System.out.println("\nSou aluno do Level 1 do CWI Reset! Me chamo " + nomeCompleto);
     }
 }
+
+
+
+Digite seu nome completo: 
+Vinicius Antoniolli
+
+Sou aluno do Level 1 do CWI Reset! Me chamo Vinicius Antoniolli
