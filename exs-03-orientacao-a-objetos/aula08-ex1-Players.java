@@ -10,3 +10,24 @@ public class Players {
         fase1.jogar();
     }
 }
+
+
+O player 1 coletou 17 moedas!!
+
+Nome: Mario
+Altura: 1.5m.
+Idade: 45 anos.
+2 vida(s)
+Possui 17 moedas.
+Você tem 100 de energia.
+
+-----
+
+O player 2 coletou 14 moedas!!
+
+Nome: Luigi
+Altura: 1.8m.
+Idade: 30 anos.
+2 vida(s)
+Possui 14 moedas.
+Você tem 100 de energia.
