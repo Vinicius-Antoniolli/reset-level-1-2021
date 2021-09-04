@@ -22,7 +22,7 @@ public class Personagem {
 Nome: Mario Bros
 Altura: 1.5
 Cor da Pele: Clara
-Cor do Olhos: Azuis
+Cor dos Olhos: Azuis
 Tamanho do nariz: Grande
 Cor da camiseta:  Vermelha
 Ele tem bigode?: true
