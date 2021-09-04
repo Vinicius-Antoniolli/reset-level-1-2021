@@ -21,3 +21,11 @@ public class Players {
         System.out.println("Correndo a " + yoshi.getVelocidade() + "km/h!");
     }
 }
+
+Mario não está montado no Yoshi!
+Mario está montado no Yoshi!
+Luigi está voando!
+Correndo a 10.0km/h!
+Correndo a 10.0km/h!
+Correndo a 20.0km/h!
+Correndo a 20.0km/h!
